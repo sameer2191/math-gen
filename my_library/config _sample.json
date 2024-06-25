@@ -1,0 +1,11 @@
+{
+    "FLASK_SECRET_KEY": "your_flask_secret_key",
+    "UPLOAD_FOLDER": "path_to_upload_folder",
+    "JSON_FOLDER": "path_to_json_folder",
+    "api_key": "your_openai_api_key",
+    "instructions": "your_instructions",
+    "host": "localhost",
+    "user": "root",
+    "password": "your_password",
+    "database": "openai_questions"
+}

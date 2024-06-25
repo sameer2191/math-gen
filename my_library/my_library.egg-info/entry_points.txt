@@ -1,0 +1,2 @@
+[console_scripts]
+my-library-run = my_library.run:main
